@@ -1,0 +1,43 @@
+.card-img-top {
+    width: 200px;
+    align-self: center;
+}
+
+.card-img-top2 {
+    margin-top: 20px;
+        width: 200px;
+        align-self: center;
+        height: 200px;
+    
+}
+
+
+.logo{
+    height: 60px;
+}
+
+.logo:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.navlink {
+    text-shadow: 1px 1px black;
+
+}
+
+.navlink:hover{
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+
+.desc {
+    height: 300px;
+    margin-top: 50px;
+}
+
+
+
+.desc>h2 {
+    margin-bottom: 100px;
+}
